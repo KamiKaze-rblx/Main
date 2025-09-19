@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KamiKaze-rblx/Main/refs/heads/main/Dex%2B%2B.lua"))()
